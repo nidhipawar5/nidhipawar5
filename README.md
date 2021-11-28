@@ -1,5 +1,3 @@
-<!---![hello](https://user-images.githubusercontent.com/69379762/143772064-d4994323-bb34-438f-8313-d1aca63f43c3.gif)
-
 - 👋 Hi, I’m Nidhi Pawar.
 - 👀 I’m interested in Full-Stack Development & Design.
 - 🌱 I’m currently working with MERN/MEAN technologies.
