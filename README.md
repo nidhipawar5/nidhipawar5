@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nidhi Pawar.
+- 👋 Hi, I’m Nidhi.
 - 👀 I’m interested in Full-Stack Development & Design.
 - 🌱 I’m currently working with MERN/MEAN technologies.
 - 💞️ I’m looking to collaborate on innovative projects.
