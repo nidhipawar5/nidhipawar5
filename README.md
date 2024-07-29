@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://blog-eta-seven-55.vercel.app](https://blog-eta-seven-55.vercel.app)
 
-- ⚡ Fun fact **I am also a content creator**
+- ⚡ Fun fact **I'm dedicated to making the tech world more inviting and uncomplicated for everyone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
