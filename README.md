@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhipawar5" alt="nidhipawar5" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/the_code_link" target="blank"><img src="https://img.shields.io/twitter/follow/the_code_link?logo=twitter&style=for-the-badge" alt="the_code_link" /></a> </p>
-
 - 🔭 I’m currently working on **Next.js Projects**
 
 - 🌱 I’m currently learning **ORMs**
 
 - 📝 I regularly write articles on [https://blog-eta-seven-55.vercel.app](https://blog-eta-seven-55.vercel.app)
 
-- ⚡ Fun fact **I am also a content creator**
+- ⚡ Fun fact **I'm dedicated to making the tech world more inviting and uncomplicated for everyone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
