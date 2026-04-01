@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **understanding user pshchology**
 
-- 🌱 I’m currently learning **RAG & Fine Tuning**
+- 🌱 I’m currently learning **RAG & Fine Tuning and other new AI stuff that keeps coming up every other week.**
 
 - 📝 I regularly write articles on [https://blog-eta-seven-55.vercel.app](https://blog-eta-seven-55.vercel.app)
 
