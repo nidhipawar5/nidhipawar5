@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhipawar5&label=Profile%20views&color=0e75b6&style=flat" alt="nidhipawar5" /> </p>
 
-- 🔭 I’m currently working on **understanding user pshchology**
+- 🔭 I’m currently working on **understanding user pshchology & consumerism**
 
 - 🌱 I’m currently learning **RAG & Fine Tuning and other new AI stuff that keeps coming up every other week.**
 
